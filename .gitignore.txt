@@ -1,0 +1,7 @@
+#Ignore cloudpickle files
+
+*.cloudpickle
+
+#ignore gzip encrypted file
+
+*.gz.enc
