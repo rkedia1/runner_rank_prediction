@@ -1,4 +1,4 @@
-#### runner_rank_prediction
+##### Project_Final.ipynb notebook contains code for EDA analysis and ML pipeline (preprocessing, feature engineering, modeling, evaluation)
 
 # Race Ranking Prediction Overview
 This project aims to predict race rankings based on various features and attributes related to athletes and their prior race performances. We explore the relationship between ranking and different factors like price, gender, age, previous race history, and race types.
