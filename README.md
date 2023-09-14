@@ -37,5 +37,5 @@ Several custom preprocessing classes have been defined to handle specific data t
 - Hyperparameter tuning is carried out using RandomizedSearchCV to find the best parameters for the Random Forest Regressor.
 
 ## Model Evaluation
-- Leveraged UMich proprietary algorithm to determine custom score for my model's performance.
+- Leveraged UMich custom algorithm to determine score for my model's performance.
 - My model finished with a score of .27, which was top 10% in the class
